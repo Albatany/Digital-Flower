@@ -19,7 +19,7 @@ Perfect for surprising someone with a personalized flower that never withers.
 
 ---
 
-# ✨ Preview
+# Preview
 
 <p align="center">
 <img width="900" alt="Screenshot 2026-07-24 094952" src="https://github.com/user-attachments/assets/30392a4c-fa63-4874-9cdc-a168929d7c4a" />
@@ -35,7 +35,7 @@ You can try the website here:
 
 ---
 
-# 💐 About
+# About
 
 This project is a simple digital flower website that can be shared with someone special.
 
@@ -127,7 +127,7 @@ After that, save the file and enjoy your personalized digital flower.
 
 ---
 
-# 🌟 Features
+# Features
 
 - 🌸 Beautiful digital flower animation
 - 💌 Personalized recipient name
@@ -138,7 +138,7 @@ After that, save the file and enjoy your personalized digital flower.
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions, issues, and feature requests are always welcome.
 
@@ -146,7 +146,7 @@ Feel free to fork this repository and submit a pull request.
 
 ---
 
-# ⭐ Support
+# Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
