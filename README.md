@@ -120,7 +120,7 @@ Aziz
 or
 
 ```text
-Arum
+Albatany
 ```
 
 After that, save the file and enjoy your personalized digital flower.
